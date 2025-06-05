@@ -1,5 +1,6 @@
 - CHAPTER 1 : INTRODUCTION
--- 1.1 INTRODUCTION
+1.1 INTRODUCTION
+
 In today's rapidly evolving educational landscape, the integration of technology into learning
 processes has become not just beneficial but essential. Educational institutions are
 increasingly recognizing the need for innovative solutions that enhance the examination
@@ -61,6 +62,7 @@ digital age.
 
 - CHAPTER 2 : BACKGROUND
 2.1 A Digital solution for paper-based examination
+
 In today's digital age, the traditional paper-based testing methods have become increasingly
 inefficient and environmentally unfriendly. The need for a reliable, secure, and efficient
 digital solution for conducting tests has become paramount. This project aims to address this
